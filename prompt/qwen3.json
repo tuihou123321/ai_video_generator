@@ -1,0 +1,23 @@
+{
+  "Qwen3-TTS_voices": [
+    {"name": "芊悦", "voice": "Cherry", "gender": "female"},
+    {"name": "晨煦", "voice": "Ethan", "gender": "male"},
+    {"name": "不吃鱼", "voice": "Nofish", "gender": "male"},
+    {"name": "詹妮弗", "voice": "Jennifer", "gender": "female"},
+    {"name": "甜茶", "voice": "Ryan", "gender": "male"},
+    {"name": "卡捷琳娜", "voice": "Katerina", "gender": "female"},
+    {"name": "墨讲师", "voice": "Elias", "gender": "female"},
+    {"name": "上海-阿珍", "voice": "Jada", "gender": "female"},
+    {"name": "北京-晓东", "voice": "Dylan", "gender": "male"},
+    {"name": "四川-晴儿", "voice": "Sunny", "gender": "female"},
+    {"name": "南京-老李", "voice": "li", "gender": "male"},
+    {"name": "陕西-秦川", "voice": "Marcus", "gender": "male"},
+    {"name": "闽南-阿杰", "voice": "Roy", "gender": "male"},
+    {"name": "天津-李彼得", "voice": "Peter", "gender": "male"},
+    {"name": "粤语-阿强", "voice": "Rocky", "gender": "male"},
+    {"name": "粤语-阿清", "voice": "Kiki", "gender": "female"},
+    {"name": "四川-程川", "voice": "Eric", "gender": "male"}
+  ]
+}
+
+[1](https://bailian.console.aliyun.com/?spm=a2c4g.11186623.0.0.4ed7601bSW0Csr&tab=doc#/doc/?type=model&url=2879134)
